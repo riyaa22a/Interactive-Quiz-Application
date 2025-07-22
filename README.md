@@ -61,5 +61,5 @@ With its flexible and scalable design, the application can be easily extended an
 
 #OUTPUT
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8a5eb955-4562-45c7-a1c2-96cb8f10b345" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bd17a695-7fcc-46a5-90c1-4b38846cba08" />
 
