@@ -1,16 +1,16 @@
 # Interactive-Quiz-Application
 
-# COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-# NAME: RIYA RAMESH TAMKHANE
+ *NAME*: RIYA RAMESH TAMKHANE
 
-# INTERN ID:CTO4DH1328
+*INTERN ID*:CTO4DH1328
 
-# DOMAIN: FRONTEND DEVELOPMENT
+*DOMAIN*: FRONTEND DEVELOPMENT
 
-# DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-# MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 A dynamic QUIZ application built with JavaScript,HTML,CSS.
 this project utilizes the power of JavaScript to create an
@@ -18,42 +18,42 @@ interactive and engaging quiz experience. The application is
 designed to be flexible and scalable ,making it easy to add or
 remove questions,modify the user interface,and extend its functionality.
 
-# features
+*features*
 
-# 1] Multiple question support: 
+*1] Multiple question support:* 
 The application supports multiple questions with dynamic rendering,allowing users to 
 navigate through the quiz seamlessely.
 
-# 2] Real time score tracking:
+*2] Real time score tracking:*
 The application tracks the user's score.
 
-# 3] User friendly interface: 
+*3] User friendly interface: *
 The application features a user-friendly interface built with HTML and CSS,
 ensuring a smooth and intuitive user experience.
 
-# 4] Developed usng Visual Studio Code(VS CODE):
+*4] Developed usng Visual Studio Code(VS CODE):*
 The project was developed using Visual Studio Code(VS CODE),a popular code editor that
 provides a wide range of features and extensions  to enhance productivity.
 
-# Technologies used:
+*Technologies used:*
 
-# JavaScript: 
+*JavaScript:* 
 The application uses JavaScript to create dynamic and interactive elements, such as question rendering, score tracking, and feedback.
 
-# HTML5: 
+*HTML5:* 
 The application uses HTML to define the structure and content of the quiz, providing a solid foundation for the user interface.
 
-# CSS: 
+*CSS:* 
 The application uses CSS to style and layout the user interface, ensuring a visually appealing and responsive design.
 
-# VS Code: 
+*VS Code:* 
 The project was developed using VS Code, which provided a robust and feature-rich environment for coding, debugging, and testing
 
-# How it Works:
+*How it Works:*
 1] The application renders a series of questions with multiple-choice answers.
 2] The users score is tracked and updated in real time.
 
-# Conclusion
+*Conclusion*
 
 The Quiz Application is a dynamic and interactive web application built with JavaScript, HTML, and CSS. The application 
 provides a user-friendly interface, score tracking, and feedback, making it an ideal tool for learning and assessment.
