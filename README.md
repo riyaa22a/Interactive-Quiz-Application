@@ -59,7 +59,7 @@ The Quiz Application is a dynamic and interactive web application built with Jav
 provides a user-friendly interface, score tracking, and feedback, making it an ideal tool for learning and assessment.
 With its flexible and scalable design, the application can be easily extended and modified to meet the needs of different users and scenarios.
 
-#OUTPUT
+# OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d5b37515-fa6f-4721-8cd5-6e4d7bcd6fc1" />
 
