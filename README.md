@@ -63,3 +63,5 @@ With its flexible and scalable design, the application can be easily extended an
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d5b37515-fa6f-4721-8cd5-6e4d7bcd6fc1" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/36a25948-ee4a-4e7c-854f-b202ebcdb35d" />
+
