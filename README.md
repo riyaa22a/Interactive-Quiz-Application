@@ -1,16 +1,16 @@
 # Interactive-Quiz-Application
 
-*COMPANY*: CODTECH IT SOLUTIONS
+*COMPANY*:  CODTECH IT SOLUTIONS
 
- *NAME*: RIYA RAMESH TAMKHANE
+ *NAME*:  RIYA RAMESH TAMKHANE
 
-*INTERN ID*:CTO4DH1328
+*INTERN ID*: CTO4DH1328
 
-*DOMAIN*: FRONTEND DEVELOPMENT
+*DOMAIN*:  FRONTEND DEVELOPMENT
 
-*DURATION*: 4 WEEKS
+*DURATION*:  4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*:  NEELA SANTOSH
 
 A dynamic QUIZ application built with JavaScript,HTML,CSS.
 this project utilizes the power of JavaScript to create an
@@ -27,7 +27,7 @@ navigate through the quiz seamlessely.
 *2] Real time score tracking:*
 The application tracks the user's score.
 
-*3] User friendly interface: *
+*3] User friendly interface:*
 The application features a user-friendly interface built with HTML and CSS,
 ensuring a smooth and intuitive user experience.
 
